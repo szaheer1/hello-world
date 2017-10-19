@@ -1,5 +1,5 @@
-# hello-world - afsheen is sleeping
+# hello-world -
 ayaan is reading 
 aleeza is outside
-test repository
-i am going to take off this weekend and study about git hub and also puppet
+practicing git hub is taking long time 
+need to rebuilt the servers again . tesa 
